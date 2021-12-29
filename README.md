@@ -1,4 +1,4 @@
- <strong> HELLO MY FRIENDS </strong>
+ <strong> HELLO MY FRIENDS </strong> https://www.iconfinder.com/icons/8665425/hands_clapping_icon
  
 
 ![banner](https://cdn.shopify.com/s/files/1/1532/5313/products/Free_Welcome_Sign_insert_large.jpg?v=1503091963)
