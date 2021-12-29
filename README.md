@@ -11,5 +11,3 @@ Feel free to add your own or someone else's profile README if you find it super 
 Don't forget to leave a ⭐ if you found this useful.
 Don't forget to leave a if you find this repo useful ⭐
 -->
-
-link icons -> https://github.com/lucasmassi/readme-icons/blob/master/README.md
