@@ -1,4 +1,4 @@
- <strong> HELLO MY FRIENDS </strong> 
+ <strong> HELLO MY FRIENDS </strong> [![CDN hits](https://data.jsdelivr.com/v1/package/gh/Readme-Workflows/Readme-Icons/badge)](https://www.jsdelivr.com/package/gh/Readme-Workflows/Readme-Icons)
  
 
 ![banner](https://cdn.shopify.com/s/files/1/1532/5313/products/Free_Welcome_Sign_insert_large.jpg?v=1503091963)
