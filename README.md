@@ -2,7 +2,7 @@
  
 # Hi, Rizal's Here ✊
 
-[![Kingkin's github stats](https://github-readme-stats.vercel.app/api?username=Rizal-Jaya22&theme=nord&show_icons=true)](https://github.com/Rizal-Jaya22
+[![Kingkin's github stats](https://github-readme-stats.vercel.app/api?username=kingkinfajarr&theme=nord&show_icons=true)](https://github.com/kingkinfajarr)
 
 Feel free to add your own or someone else's profile README if you find it super awesome! 
 
